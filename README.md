@@ -1,1 +1,1 @@
-# MachineLearningNotebooks
+# MachineLearningModules
